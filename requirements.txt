@@ -1,0 +1,4 @@
+colorama
+libgen_api
+tqdm
+colored
